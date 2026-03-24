@@ -27,7 +27,7 @@ about: {
 
   p2: "Through building projects like Car Sales Dashboards and AI Validators, I’ve developed a habit of thinking beyond basic metrics. I focus on comprehensive data modeling, interactive visualizations, and predictive analytics, while ensuring the end experience remains simple and insightful for stakeholders. I naturally gravitate towards business intelligence and machine learning, where data-driven decisions have a direct impact.",
 
-  p3: "Alongside practical projects, I continuously strengthen my problem-solving skills — solving 50+ LeetCode problems and maintaining strong algorithmic fundamentals — which helps me approach challenges with clarity and write efficient data pipelines. I’m driven by the process of taking ownership, learning from real-world data problems, and continuously improving as a data professional.",
+  p3: "Alongside practical projects, I continuously strengthen my problem-solving skills — solving 250+ LeetCode problems and maintaining strong algorithmic fundamentals — which helps me approach challenges with clarity and write efficient data pipelines. I’m driven by the process of taking ownership, learning from real-world data problems, and continuously improving as a data professional.",
 
   highlights: [
     { title: "Data Analytics", desc: "Builds interactive dashboards and analyzes trends using Power BI and Excel." },

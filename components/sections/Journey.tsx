@@ -92,7 +92,7 @@ export default function JourneySection() {
   const achievements = [
     {
       title: "Technical Achievements",
-      desc: "Successfully solved 50+ problems on LeetCode, strengthening problem-solving and coding skills.",
+      desc: "Successfully solved 250+ problems on LeetCode, strengthening problem-solving and coding skills.",
       icon: <SiLeetcode className="text-[#FFA116]" size={24} />,
       link: "https://leetcode.com/u/Mukul230205/",
     },
@@ -114,7 +114,7 @@ export default function JourneySection() {
 
         {/* Counters */}
         <div className="grid grid-cols-2 md:grid-cols-2 gap-6 mb-20 mt-16 max-w-2xl mx-auto">
-          <AnimatedCounter value={50} label={tr.leetcode} />
+          <AnimatedCounter value={250} label={tr.leetcode} />
           <AnimatedCounter value={3} label={tr.projects_built} />
         </div>
 
